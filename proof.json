@@ -1,0 +1,10 @@
+{
+    "schema": "technocore-contribution-proof-v2",
+    "artifact_url": "https://github.com/0xminato1212/0xMinato-Flop-Labs-Contribution",
+    "commit": "c8e992ba673a43a8397efcc1e87260a7569d7cff",
+    "did": "did:key:z6MkfdHUp8ETg25VrafdsciEaeuzZAWnAPhAJwPUVCRRQa9b",
+    "issued_at": 1795532537,
+    "expires_at": 1803308537,
+    "nonce": "c0f1420a50662ce61cb37fca403b3401",
+    "signature": "qX2gvhrcV9XA4fXV4nFl25O1_p1andfztHhf_KamD6CImso6T50GAvTeb-oA8Z0uBO58onuEzQkB_16KLi4kCQ"
+}
